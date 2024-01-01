@@ -1,4 +1,4 @@
-package org.example.splitwise.models;
+package org.example.splitwise.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
